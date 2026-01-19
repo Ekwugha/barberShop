@@ -1,0 +1,26 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="#F59E0B" opacity="0.9"/>
+  
+  <!-- Scissors - Left handle -->
+  <path d="M10 12 L8 22 L11 24 L13 14 Z" fill="#FFFFFF" stroke="#D97706" stroke-width="0.5"/>
+  
+  <!-- Scissors - Right handle -->
+  <path d="M22 12 L24 22 L21 24 L19 14 Z" fill="#FFFFFF" stroke="#D97706" stroke-width="0.5"/>
+  
+  <!-- Scissors blades (left) -->
+  <ellipse cx="13" cy="10" rx="2.5" ry="3.5" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="0.5"/>
+  
+  <!-- Scissors blades (right) -->
+  <ellipse cx="19" cy="10" rx="2.5" ry="3.5" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="0.5"/>
+  
+  <!-- Center pivot -->
+  <circle cx="16" cy="10" r="1" fill="#6B7280"/>
+  
+  <!-- Handle grips -->
+  <line x1="10" y1="14" x2="10" y2="18" stroke="#D97706" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="11.5" y1="14" x2="11.5" y2="18" stroke="#D97706" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="20.5" y1="14" x2="20.5" y2="18" stroke="#D97706" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="22" y1="14" x2="22" y2="18" stroke="#D97706" stroke-width="0.8" stroke-linecap="round"/>
+</svg>
+
